@@ -1,1 +1,1 @@
-a long time ago, in a galaxy far, far away, i added some text about han solo
+a long time ago, in a galaxy far, far away, i edited this line to create a conflict
